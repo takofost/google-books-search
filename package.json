@@ -27,7 +27,7 @@
     "if-env": "^1.0.4",
     "jquery": "^3.4.1",
     "materialize-css": "^1.0.0-rc.2",
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "popper.js": "^1.15.0"
   }
